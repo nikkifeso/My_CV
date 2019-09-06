@@ -50,14 +50,13 @@ body{
 }
 
 #leadership{
-    margin-left: 5%;
+    margin-left: 150px;
     margin-right: 60px;
 }
 
 #skills{
-    margin-left: 62%;
+    margin-left: 33%;
     margin-right: 60px;
-    position: fixed;
 }
 
 #buttn{
