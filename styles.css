@@ -55,8 +55,9 @@ body{
 }
 
 #skills{
-    margin-left: 40%;
+    margin-left: 62%;
     margin-right: 60px;
+    position: fixed;
 }
 
 #buttn{
